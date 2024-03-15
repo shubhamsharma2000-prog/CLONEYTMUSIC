@@ -1,0 +1,1 @@
+ C:\\Users\\rohit\\Desktop\\assesment\\corewave\\.dart_tool\\flutter_build\\c7814a221cb7f669bbdbaa72ca25cd9f\\native_assets.yaml: 
